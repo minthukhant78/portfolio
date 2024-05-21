@@ -140,8 +140,8 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
+    name: "Google",
+    img: "/cloud.sg",
     nameImg: "/cloudName.svg",
   },
   {
@@ -205,13 +205,21 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link:"#"
   },
   {
     id: 2,
     img: "/twit.svg",
+    link:"#"
   },
   {
     id: 3,
     img: "/link.svg",
+    link:"#"
+  },
+  {
+    id: 4,
+    img: "/dockerName.svg",
+    link:"#"
   },
 ];
